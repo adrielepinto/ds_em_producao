@@ -76,3 +76,6 @@ TRUE
 
 # Hipothesys Resume
 
+<img width="432" alt="Screen Shot 2022-05-05 at 7 04 01 AM" src="https://user-images.githubusercontent.com/97919969/166940810-1c6838ae-8656-487d-8259-d761e857b966.png">
+
+# Multivariable Analisys
