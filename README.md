@@ -23,3 +23,7 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 # Descriptive Startistical 
 
 <img width="1163" alt="Screen Shot 2022-05-05 at 6 33 26 AM" src="https://user-images.githubusercontent.com/97919969/166934613-210e6512-5f60-4d12-9869-b5755179ea43.png">
+
+# Mind Map
+
+![mindmap](https://user-images.githubusercontent.com/97919969/166935606-b2b1f351-f1a1-4ab8-9875-6db250e04732.png)
