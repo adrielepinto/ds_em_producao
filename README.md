@@ -105,4 +105,6 @@ Compare Model's Performance
 <img width="1154" alt="Screen Shot 2022-05-05 at 7 21 12 AM" src="https://user-images.githubusercontent.com/97919969/166945747-b3998bef-457b-4f43-8da5-9a4eb1182bbe.png">
 
 
+# Result View
 
+![B4DD14A2-78E2-4D6E-9607-7F098732D39E_1_105_c](https://user-images.githubusercontent.com/97919969/166946390-08bf7ec7-0b1e-40dc-9806-2b2ef615e66e.jpeg)
