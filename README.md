@@ -54,3 +54,8 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 
 # Categorical Variable
 
+<img width="1161" alt="Screen Shot 2022-05-05 at 6 50 03 AM" src="https://user-images.githubusercontent.com/97919969/166937978-a9c6feda-93d5-4000-8ce5-682a72797c9f.png">
+
+# Hypothesys validation
+# H1. - Stores with biggest assortment should sell more.
+# FALSE
