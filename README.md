@@ -1,5 +1,5 @@
 # Rossmann Store Salles Prediction
-https://github.com/adrielepinto/ds_em_producao/issues/1#issue-1226653141
+![img_sales](https://user-images.githubusercontent.com/97919969/166930775-427d80e9-5dab-4ce6-9db1-60f30bfa117d.jpeg)
 # mip
 hjsgjdask
 #ls
