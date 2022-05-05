@@ -67,3 +67,8 @@ FALSE
 
 H3 - Opened stores on Christimas holliday should sall over/more.
 FALSE 
+
+<img width="1188" alt="Screen Shot 2022-05-05 at 6 58 49 AM" src="https://user-images.githubusercontent.com/97919969/166939768-1c4f034e-34b5-4a6b-995b-2e5dc6b81048.png">
+
+H4. - Stores should sell more after 10th day of eatch month.
+TRUE
