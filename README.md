@@ -19,5 +19,7 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 # 3. Solution Development 
 # 3.1 Data Description
 <img width="810" alt="Screen Shot 2022-05-05 at 6 28 20 AM" src="https://user-images.githubusercontent.com/97919969/166934049-8d2696e8-2d0e-4d58-975d-887d850e56fb.png">
+
 # 3.2 Descriptive Startistical 
+
 <img width="1163" alt="Screen Shot 2022-05-05 at 6 33 26 AM" src="https://user-images.githubusercontent.com/97919969/166934613-210e6512-5f60-4d12-9869-b5755179ea43.png">
