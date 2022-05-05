@@ -57,5 +57,9 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 <img width="1161" alt="Screen Shot 2022-05-05 at 6 50 03 AM" src="https://user-images.githubusercontent.com/97919969/166937978-a9c6feda-93d5-4000-8ce5-682a72797c9f.png">
 
 # Hypothesys validation
-# H1. - Stores with biggest assortment should sell more.
-# FALSE
+ H1. - Stores with biggest assortment should sell more.
+ FALSE
+<img width="1269" alt="Screen Shot 2022-05-05 at 6 53 12 AM" src="https://user-images.githubusercontent.com/97919969/166938645-1ac64f4b-4ba5-4d39-944a-5db9cc4b545b.png">
+
+H2. - Stores with competitors around should sell less.
+FALSE 
