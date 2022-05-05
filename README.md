@@ -107,4 +107,4 @@ Compare Model's Performance
 
 # Result View
 
-![B4DD14A2-78E2-4D6E-9607-7F098732D39E_1_105_c](https://user-images.githubusercontent.com/97919969/166946390-08bf7ec7-0b1e-40dc-9806-2b2ef615e66e.jpeg)
+![DCF0651D-09EA-4F90-82C0-A69F479F9CA8](https://user-images.githubusercontent.com/97919969/166949002-f09e86e3-52b4-4878-aba0-5500894bad0f.png)
