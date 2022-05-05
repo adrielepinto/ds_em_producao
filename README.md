@@ -45,3 +45,9 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 
 # Exploratory Data Analisys
 # Response variable
+
+<img width="1233" alt="Screen Shot 2022-05-05 at 6 43 57 AM" src="https://user-images.githubusercontent.com/97919969/166936765-82c4188d-66d7-437f-843c-17312381f2f1.png">
+
+# Numerical Variable
+
+
