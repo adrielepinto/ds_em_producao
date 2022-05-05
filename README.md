@@ -63,3 +63,7 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 
 H2. - Stores with competitors around should sell less.
 FALSE 
+<img width="1220" alt="Screen Shot 2022-05-05 at 6 56 32 AM" src="https://user-images.githubusercontent.com/97919969/166939302-ac95033c-561f-496f-bca1-5a5efd915d94.png">
+
+H3 - Opened stores on Christimas holliday should sall over/more.
+FALSE 
