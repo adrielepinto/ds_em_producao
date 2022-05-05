@@ -57,20 +57,21 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 <img width="1161" alt="Screen Shot 2022-05-05 at 6 50 03 AM" src="https://user-images.githubusercontent.com/97919969/166937978-a9c6feda-93d5-4000-8ce5-682a72797c9f.png">
 
 # Hypothesys validation
- H1. - Stores with biggest assortment should sell more.
+
+ # H1. - Stores with biggest assortment should sell more.
  FALSE
 <img width="1269" alt="Screen Shot 2022-05-05 at 6 53 12 AM" src="https://user-images.githubusercontent.com/97919969/166938645-1ac64f4b-4ba5-4d39-944a-5db9cc4b545b.png">
 
-H2. - Stores with competitors around should sell less.
+# H2. - Stores with competitors around should sell less.
 FALSE 
 <img width="1220" alt="Screen Shot 2022-05-05 at 6 56 32 AM" src="https://user-images.githubusercontent.com/97919969/166939302-ac95033c-561f-496f-bca1-5a5efd915d94.png">
 
-H3 - Opened stores on Christimas holliday should sall over/more.
+# H3 - Opened stores on Christimas holliday should sall over/more.
 FALSE 
 
 <img width="1188" alt="Screen Shot 2022-05-05 at 6 58 49 AM" src="https://user-images.githubusercontent.com/97919969/166939768-1c4f034e-34b5-4a6b-995b-2e5dc6b81048.png">
 
-H4. - Stores should sell more after 10th day of eatch month.
+# H4. - Stores should sell more after 10th day of eatch month.
 TRUE
 <img width="1145" alt="Screen Shot 2022-05-05 at 7 01 11 AM" src="https://user-images.githubusercontent.com/97919969/166940329-f068d51a-af28-497c-a34a-0b8db799d0ca.png">
 
@@ -100,4 +101,6 @@ Compare Model's Performance
 <img width="484" alt="Screen Shot 2022-05-05 at 7 18 04 AM" src="https://user-images.githubusercontent.com/97919969/166943862-99c938c3-3582-4606-a347-98469c8ca966.png">
 
 # Machine Learning Performace
+
+<img width="484" alt="Screen Shot 2022-05-05 at 7 18 04 AM" src="https://user-images.githubusercontent.com/97919969/166943862-99c938c3-3582-4606-a347-98469c8ca966.png">
 
