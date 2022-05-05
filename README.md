@@ -16,3 +16,5 @@ Solution:
 
 Use Machine Learning to perform the Sales Prediction for all Stores;
 The visualization of Salles Prediction can be seen by a Smartphone;
+# 3. Solution Development 
+# Data Description
