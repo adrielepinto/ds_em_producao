@@ -72,3 +72,7 @@ FALSE
 
 H4. - Stores should sell more after 10th day of eatch month.
 TRUE
+<img width="1145" alt="Screen Shot 2022-05-05 at 7 01 11 AM" src="https://user-images.githubusercontent.com/97919969/166940329-f068d51a-af28-497c-a34a-0b8db799d0ca.png">
+
+# Hipothesys Resume
+
