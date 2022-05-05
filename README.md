@@ -42,3 +42,6 @@ The visualization of Salles Prediction can be seen by a Smartphone;
  10. - Stores  should sell more after 10th day of eatch month.
  11. - Stores should sell less on wekeends.
  12. - Stores should sell less on hollidays school.
+
+# Exploratory Data Analisys
+# Response variable
