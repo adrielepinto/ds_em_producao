@@ -50,4 +50,7 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 
 # Numerical Variable
 
+<img width="1140" alt="Screen Shot 2022-05-05 at 6 46 38 AM" src="https://user-images.githubusercontent.com/97919969/166937348-0d575df7-4592-416d-9cc0-76a40e0bcc70.png">
+
+# Categorical Variable
 
