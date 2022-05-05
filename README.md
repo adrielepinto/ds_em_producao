@@ -79,3 +79,8 @@ TRUE
 <img width="432" alt="Screen Shot 2022-05-05 at 7 04 01 AM" src="https://user-images.githubusercontent.com/97919969/166940810-1c6838ae-8656-487d-8259-d761e857b966.png">
 
 # Multivariable Analisys
+
+<img width="1161" alt="Screen Shot 2022-05-05 at 7 07 02 AM" src="https://user-images.githubusercontent.com/97919969/166941493-c453411c-15c8-4216-8165-4ea621cc2990.png">
+
+# Machine Learning Modelling
+Compare Model's Performance
