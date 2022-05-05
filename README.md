@@ -27,3 +27,18 @@ The visualization of Salles Prediction can be seen by a Smartphone;
 # Mind Map
 
 ![mindmap](https://user-images.githubusercontent.com/97919969/166935606-b2b1f351-f1a1-4ab8-9875-6db250e04732.png)
+
+# Hipothesys List 
+
+ 1. - Stores with biggest assortment should sell over/more.
+ 2. - Stores with competitors around should sell less.
+ 3. - Stores with longer competitors should sell over/more.
+ 4. - Stores with activate promotion for more time should sell over/more.
+ 5. - Stores with more promotion days should sell over/more.
+ 6. - Stores with consecultive promotion should sell over/more.
+ 7. - Opened stores on Christimas holliday should sall over/more.
+ 8. - Stores should sell more throughout the year.
+ 9. - Stores should sell more on the second semestre of the year.
+ 10. - Stores  should sell more after 10th day of eatch month.
+ 11. - Stores should sell less on wekeends.
+ 12. - Stores should sell less on hollidays school.
