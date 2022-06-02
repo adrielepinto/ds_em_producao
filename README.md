@@ -19,7 +19,9 @@ The visualisation of Sales is limited by computer;
 Solution:
 
 Use Machine Learning to perform the Sales Prediction for all Stores;
+
 The visualization of Salles Prediction can be seen by a Smartphone;
+
 # 3. Solution Development 
 # Data Description
 <img width="810" alt="Screen Shot 2022-05-05 at 6 28 20 AM" src="https://user-images.githubusercontent.com/97919969/166934049-8d2696e8-2d0e-4d58-975d-887d850e56fb.png">
