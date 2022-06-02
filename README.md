@@ -7,10 +7,14 @@ Buget definition for the refurbishment of stores.
 
 Cause:
 
-## The current Sales Prediction displays many divergence;
+The current Sales Prediction displays many divergence;
+
 The Sales Prediction process is based on pass experiences;
+
 All of Sales Prediction has been done manually by 1.115 Rossmann Stores;
+
 The visualisation of Sales is limited by computer;
+
 
 Solution:
 
