@@ -117,5 +117,6 @@ Compare Model's Performance
 
 ![DCF0651D-09EA-4F90-82C0-A69F479F9CA8](https://user-images.githubusercontent.com/97919969/166949002-f09e86e3-52b4-4878-aba0-5500894bad0f.png)
 
-![sr_producao](https://user-images.githubusercontent.com/97919969/179798371-11afc982-cffe-4992-8b2d-cce655b85d73.jpeg)
+
+
 
